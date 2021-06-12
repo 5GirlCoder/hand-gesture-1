@@ -1,0 +1,62 @@
+body
+{
+    background: url(https://i.pinimg.com/originals/28/01/4c/28014c2b35471e4c27e58042524d1a1c.jpg);
+}
+
+p
+{
+    color : white;
+    font-size: 22px;
+}
+
+.header
+{
+    color : white;
+    font-size: 25px;
+    height: 90px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+#The_Gestures
+{
+    color: white; 
+    font-size: 20px;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+label
+{
+    color: white; 
+    font-size: 16px;
+    background-color: rgb(60, 182, 223);
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#camera , #result
+{
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: blue;
+}
+
+#cam-div
+{
+    margin-bottom: 10px;
+}
+
+.gesture_name
+{
+    font-size: 16px;
+    color: whiteck;
+}
+
+.emoji
+{
+    font-size: 20px;
+}
